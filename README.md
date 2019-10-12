@@ -4,7 +4,7 @@
 ## Drag and drop website builder javascript library.
 Built with jQuery and Bootstrap 4.
 
-[Two panel Live Demo](http://www.baker2019.github.io)
+[Two panel Live Demo](https://baker2019.github.io)
 
 Using [Startboostrap landing page](https://startbootstrap.com/template-overviews/landing-page/) for demo page and Bootstrap 4 components.
 
